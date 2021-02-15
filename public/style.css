@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+}
+
+/* a {
+  /* text-decoration: none; */
+/* color: yellow; */
+/* } */
+
+label {
+  display: block;
+}
+
+nav a {
+  display: inline-block;
+  margin: 1em;
+}
+
+form div {
+  margin: 0.5em;
+  display: inline-flex;
+}
